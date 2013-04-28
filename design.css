@@ -66,8 +66,8 @@ color:white;
 }
 
 .clear:hover{
-background-color:blue;
-box-shadow:5px 5px 5px brown;
+background-color:lightblue; //change new color
+box-shadow:5px 5px 5px yellow;
 }
 
 .number:hover, .operator:hover{
